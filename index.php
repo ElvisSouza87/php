@@ -7,11 +7,6 @@
 
    echo "Meu primeiro código PHP";
 
-   echo "Meu primeiro código PHP";
-
-   echo "Meu primeiro código PHP";
-
-   echo "Meu primeiro código PHP";
-
+   echo "kate amo voce";
 
 ?>   
