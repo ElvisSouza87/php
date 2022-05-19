@@ -3,7 +3,15 @@
 
    echo "Olá mundo";
 
-   echo "Kate e Elvis";
+   echo "Hello World";
+
+   echo "Meu primeiro código PHP";
+
+   echo "Meu primeiro código PHP";
+
+   echo "Meu primeiro código PHP";
+
+   echo "Meu primeiro código PHP";
 
 
 ?>   
